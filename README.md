@@ -1,2 +1,2 @@
-# home
-Home page for &lt;YMnRb.GitHub.io>.
+# YMnRb/Home
+Home page for <YMnRb.GitHub.io>.
